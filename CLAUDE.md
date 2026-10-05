@@ -13,6 +13,7 @@ MBA from IIM Ahmedabad. Domains: travel, telecom, healthtech, insurance.
 - One small step at a time. Check with me before anything big or irreversible.
 - I make the product decisions and do the testing; you do the building.
 - Prefer shipping working outputs over theory.
+- Show me a plan and wait for my OK before building anything new.
 
 ## Folder map
 - `private/`: my personal files, used as context: resume (`resume.pdf`), job preferences (`preferences.md`) and experience brief (`experience-brief.md`). Kept out of Git.
@@ -25,6 +26,9 @@ MBA from IIM Ahmedabad. Domains: travel, telecom, healthtech, insurance.
 - Never copy contact details (phone, email, address) or content from `private/` into files outside `private/`. This repo is public. The only exception is the short summary in "Who I am" above.
 - Ask before deleting anything.
 - Keep everything simple enough for me to maintain myself.
+- Run a privacy check and show me the file list before every upload.
+- Never invent links or data. Every output must come from a source you actually opened.
+- Keep personal settings in `private/`, and keep skills generic so they read from there.
 
 ## Changelog
 - 2026-10-04: Set up PM OS: created folders, moved personal files into `private/`, added `.gitignore` and this CLAUDE.md.
@@ -35,3 +39,4 @@ MBA from IIM Ahmedabad. Domains: travel, telecom, healthtech, insurance.
 - 2026-10-05: Updated /find-jobs: added a remote track to broad runs (up to 10 of 40 postings) with a remote hard gate, and more specific work_mode values.
 - 2026-10-05: Updated /find-jobs: remote track now opens at most 5 postings and saves at most 3 remote roles per broad run.
 - 2026-10-05: Published PM OS to GitHub as a public repo (github.com/Prachi-orchestrated/pm-os). Skill rules now point to private/preferences.md instead of restating personal details; added examples/ with made-up preferences and tracker files.
+- 2026-10-05: Added README.md, and new working rules in CLAUDE.md (plan before building, privacy check before every upload, no invented links or data, generic skills).
