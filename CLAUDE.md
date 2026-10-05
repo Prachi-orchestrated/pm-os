@@ -34,3 +34,4 @@ MBA from IIM Ahmedabad. Domains: travel, telecom, healthtech, insurance.
 - 2026-10-05: Updated /find-jobs: added hard location and level gates before scoring; broad runs save at most 3 jobs per company and search least recently searched companies first.
 - 2026-10-05: Updated /find-jobs: added a remote track to broad runs (up to 10 of 40 postings) with a remote hard gate, and more specific work_mode values.
 - 2026-10-05: Updated /find-jobs: remote track now opens at most 5 postings and saves at most 3 remote roles per broad run.
+- 2026-10-05: Published PM OS to GitHub as a public repo (github.com/Prachi-orchestrated/pm-os). Skill rules now point to private/preferences.md instead of restating personal details; added examples/ with made-up preferences and tracker files.
